@@ -31,15 +31,7 @@ These are the initial steps to prepare before the first meeting:
 ### Getting the Word Out
 - Have a website (preferably with your community's domain name), so you can include the URL when promoting the group.
 - Apply to be on the [Python Software Foundation Meetup Pro Network](https://www.meetup.com/pro/python-software-foundation-meetups/). This is a good way for people to find your community.
-- Find other ways of communicating meetings or upcoming events (note: you are encouraged to use any of the below sites that works for your community):
-   - LinkedIn
-   - Mastodon
-   - Blusesky
-   - X
-   - Instagram
-   - Facebook
-   - RSS
-   - Mailing Lists
+- Find other ways of communicating meetings or upcoming events (note: you are encouraged to use any of the below sites that works for your community): LinkedIn, Mastodon, Blusesky, X, Instagram, Facebook, RSS, Mailing Lists.
 - Add your group to the Python Software Foundation [Local User Groups](https://wiki.python.org/moin/LocalUserGroups). Some people come here to find such groups.
 - Identify other user groups in your area and, with their permission, post an announcement of your meetings.
 - Hang some flyers at your local college; hold some meetings on a campus and get listed as a campus organization.
