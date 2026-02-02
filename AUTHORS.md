@@ -1,5 +1,7 @@
 - [Loren Crary](https://www.linkedin.com/in/loren-crary/)
 - [Abigail Mesrenyame Dogbe](https://github.com/mesrenyamedogbe)
+- [Deb Nicholson](https://www.linkedin.com/in/denicholson/)
+- [Ewa Jodowlska](https://www.linkedin.com/in/ewa-jodlowska/)
 - [Mason Egger](https://github.com/masonegger)
 - [Ben Berry](https://github.com/bengerman13)
 - [Takuya Nishimoto](https://github.com/nishimotz)
