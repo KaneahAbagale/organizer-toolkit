@@ -24,7 +24,7 @@ Please sign up for all accounts related to your Python software community with y
 
 You are free and encouraged to use any social media that you'd like (be sure to register the account with your community email address).
 
-X, Instagram, LinkedIn, Mastodon, Facebook, Meetup, Bluesky. Note: For Meetup.com users, the PSF financially hosts worldwide Python Meetups on their Meetup Pro Network as long as certain conditions are met.
+X, Instagram, LinkedIn, Mastodon, Facebook, Meetup, Bluesky, Tiktok. Note: For Meetup.com users, the PSF financially hosts worldwide Python Meetups on their Meetup Pro Network as long as certain conditions are met.
 
 ### How do I ask the PSF to cover Meetup fees?
 
