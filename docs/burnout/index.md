@@ -89,7 +89,7 @@ It’s completely okay to stop your involvement for a time. Everyone would prefe
 - Recognize that burnout doesn't mean you're weak or failing; it means you've been giving without adequate replenishment.
 
 
-### Redistribute Responsibilities
+#### Redistribute Responsibilities
 
 - Identify tasks you're doing that could be handled by others and explicitly ask people for help.
 
@@ -98,7 +98,7 @@ It’s completely okay to stop your involvement for a time. Everyone would prefe
 - Use this as an opportunity to empower your team rather than just assigning tasks.
 
 
-### Practice Self-Care
+#### Practice Self-Care
 
 - Get adequate sleep, exercise, and nutrition—these affect your resilience.
 
