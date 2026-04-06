@@ -25,6 +25,34 @@ Organizing a Python Software Community is hard work, and often under-appreciated
 
 ## Ways to prevent burnout
 
+### Build a Team
+
+Don't try to do everything alone. Delegate tasks and responsibility to other community members.
+
+- Identify volunteers or interested community members who can take on specific roles (event coordination, speaker recruitment, social media, etc.).
+
+- Create clear job descriptions or role documents so people know what's expected of them.
+
+- Provide training and mentorship to help new organizers feel confident in their roles.
+
+- Rotate responsibilities across your team so there is a proper balance of the workload to prevent any single person from being indispensable.
+
+
+### Systematize and Streamline
+
+Reduce repetitive work by creating processes and templates.
+
+- Develop an event checklist that you can reuse for each meeting.
+
+- Create email templates for common communications (speaker invitations, follow-ups, announcements, sponsorship requests).
+
+- Use project management tools (GitHub Issues, Trello, Asana, etc.) to track tasks and share responsibility.
+
+- Document your processes so others can help and so knowledge doesn't live only in your head. This will ensure continuity.
+
+- Automate where possible (scheduled social media posts, email reminders, registration systems).
+
+
 ### Running your Group
 
 - Find co-organizers to help shoulder the burden. We all have different skills, strengths, and weaknesses.
@@ -51,6 +79,33 @@ It’s completely okay to stop your involvement for a time. Everyone would prefe
 
 
 ### Coping with burnout
+
+#### Acknowledge it
+
+- Don't minimize or ignore the signs—burnout is real and valid.
+
+- Admit to yourself and your team that you're struggling, rather than pretending everything is fine.
+
+- Recognize that burnout doesn't mean you're weak or failing; it means you've been giving without adequate replenishment.
+
+
+#### Redistribute Responsibilities
+
+- Identify tasks you're doing that could be handled by others and explicitly ask people for help.
+
+- Be specific about what help you need rather than expecting people to guess.
+
+- Use this as an opportunity to empower your team rather than just assigning tasks.
+
+
+#### Practice Self-Care
+
+- Get adequate sleep, exercise, and nutrition—these affect your resilience.
+
+- Engage in activities that bring you joy and take a break.
+
+- Spend time with people who support you emotionally.
+
 
 ### If you notice someone seems to be burning out
 
